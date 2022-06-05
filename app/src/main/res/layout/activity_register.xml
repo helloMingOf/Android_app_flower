@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context=".Login.Register">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="85dp"
+            android:layout_height="45dp"
+            android:text="ID号"
+            android:textSize="18sp" />
+
+        <EditText
+            android:id="@+id/new_ig_ID"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:ems="10"
+            android:hint="新的ID号"
+            android:inputType="textPersonName" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="85dp"
+            android:layout_height="45dp"
+            android:text="密码"
+            android:textSize="18sp" />
+
+        <EditText
+            android:id="@+id/new_ig_password"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:ems="10"
+            android:hint="新的密码"
+            android:inputType="textPersonName" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="85dp"
+            android:layout_height="45dp"
+            android:text="密码"
+            android:textSize="18sp" />
+
+        <EditText
+            android:id="@+id/new_ig_password_1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:ems="10"
+            android:hint="输入第二次密码"
+            android:inputType="textPersonName" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="85dp"
+            android:layout_height="45dp"
+            android:text="用户昵称"
+            android:textSize="18sp" />
+
+        <EditText
+            android:id="@+id/new_ig_name"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:ems="10"
+            android:hint="新的用户昵称"
+            android:inputType="textPersonName" />
+    </LinearLayout>
+
+    <com.example.flower.message.wiget.ItemGroup
+        android:id="@+id/new_ig_gender"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:edt_hint_content="性别"
+        app:paddingLeft="@dimen/padding_left_and_right"
+        app:title="@string/my_gender" />
+
+    <com.example.flower.message.wiget.ItemGroup
+        android:id="@+id/new_ig_region"
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        app:edt_hint_content="未选择"
+        app:paddingLeft="@dimen/padding_left_and_right"
+        app:title="常住地" />
+
+    <com.example.flower.message.wiget.ItemGroup
+        android:id="@+id/new_ig_brithday"
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        app:edt_hint_content="未选择"
+        app:paddingLeft="@dimen/padding_left_and_right"
+        app:title="生日">
+
+    </com.example.flower.message.wiget.ItemGroup>
+
+    <Button
+        android:id="@+id/register"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="注册"
+        android:text="注册" />
+
+
+</LinearLayout>

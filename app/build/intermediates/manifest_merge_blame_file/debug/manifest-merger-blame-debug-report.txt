@@ -1,0 +1,101 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.flower"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:4:5-67
+11-->D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:5:5-81
+12-->D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:5:22-78
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->[com.linchaolong.android:imagepicker:1.5] D:\android-studio\Gradle\caches\transforms-2\files-2.1\63f4dd50bd541ab98cec0c2e11a16672\jetified-imagepicker-1.5\AndroidManifest.xml:9:5-65
+13-->[com.linchaolong.android:imagepicker:1.5] D:\android-studio\Gradle\caches\transforms-2\files-2.1\63f4dd50bd541ab98cec0c2e11a16672\jetified-imagepicker-1.5\AndroidManifest.xml:9:22-62
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->[com.linchaolong.android:imagepicker:1.5] D:\android-studio\Gradle\caches\transforms-2\files-2.1\63f4dd50bd541ab98cec0c2e11a16672\jetified-imagepicker-1.5\AndroidManifest.xml:11:5-80
+14-->[com.linchaolong.android:imagepicker:1.5] D:\android-studio\Gradle\caches\transforms-2\files-2.1\63f4dd50bd541ab98cec0c2e11a16672\jetified-imagepicker-1.5\AndroidManifest.xml:11:22-77
+15
+16    <application
+16-->D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:6:5-28:19
+17        android:allowBackup="true"
+17-->D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:7:9-35
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.1.0] D:\android-studio\Gradle\caches\transforms-2\files-2.1\1cd7eff88f5e86d0249af2958bf465f0\core-1.1.0\AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:extractNativeLibs="false"
+21        android:icon="@mipmap/ic_launcher"
+21-->D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:8:9-43
+22        android:label="@string/app_name"
+22-->D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:9:9-41
+23        android:networkSecurityConfig="@xml/network_security_config"
+23-->D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:12:9-69
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:10:9-54
+25        android:supportsRtl="true"
+25-->D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:11:9-35
+26        android:testOnly="true"
+27        android:theme="@style/AppTheme"
+27-->D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:14:9-40
+28        android:usesCleartextTraffic="true" >
+28-->D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:13:9-44
+29        <activity android:name="com.example.flower.MainActivity" >
+29-->D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:15:9-21:20
+29-->D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:15:19-47
+30            <intent-filter>
+30-->D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:16:13-20:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:17:17-69
+31-->D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:17:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:19:17-77
+33-->D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:19:27-74
+34            </intent-filter>
+35        </activity>
+36        <activity android:name="com.example.flower.message.PersonInfo" />
+36-->D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:22:9-56
+36-->D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:22:19-53
+37        <activity android:name="com.example.flower.message.Setting" />
+37-->D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:23:9-53
+37-->D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:23:19-50
+38        <activity android:name="com.example.flower.message.EditName" />
+38-->D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:24:9-54
+38-->D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:24:19-51
+39        <activity android:name="com.example.flower.Login.UI" />
+39-->D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:25:9-46
+39-->D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:25:19-43
+40        <activity android:name="com.example.flower.Login.Register" />
+40-->D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:26:9-52
+40-->D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:26:19-49
+41        <activity android:name="com.example.flower.ui.message" />
+41-->D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:27:9-48
+41-->D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:27:19-45
+42
+43        <provider
+43-->[com.linchaolong.android:imagepicker:1.5] D:\android-studio\Gradle\caches\transforms-2\files-2.1\63f4dd50bd541ab98cec0c2e11a16672\jetified-imagepicker-1.5\AndroidManifest.xml:14:9-22:20
+44            android:name="androidx.core.content.FileProvider"
+44-->[com.linchaolong.android:imagepicker:1.5] D:\android-studio\Gradle\caches\transforms-2\files-2.1\63f4dd50bd541ab98cec0c2e11a16672\jetified-imagepicker-1.5\AndroidManifest.xml:15:13-62
+45            android:authorities="com.example.flower.imagePicker.provider"
+45-->[com.linchaolong.android:imagepicker:1.5] D:\android-studio\Gradle\caches\transforms-2\files-2.1\63f4dd50bd541ab98cec0c2e11a16672\jetified-imagepicker-1.5\AndroidManifest.xml:16:13-72
+46            android:exported="false"
+46-->[com.linchaolong.android:imagepicker:1.5] D:\android-studio\Gradle\caches\transforms-2\files-2.1\63f4dd50bd541ab98cec0c2e11a16672\jetified-imagepicker-1.5\AndroidManifest.xml:17:13-37
+47            android:grantUriPermissions="true" >
+47-->[com.linchaolong.android:imagepicker:1.5] D:\android-studio\Gradle\caches\transforms-2\files-2.1\63f4dd50bd541ab98cec0c2e11a16672\jetified-imagepicker-1.5\AndroidManifest.xml:18:13-47
+48            <meta-data
+48-->[com.linchaolong.android:imagepicker:1.5] D:\android-studio\Gradle\caches\transforms-2\files-2.1\63f4dd50bd541ab98cec0c2e11a16672\jetified-imagepicker-1.5\AndroidManifest.xml:19:13-21:58
+49                android:name="android.support.FILE_PROVIDER_PATHS"
+49-->[com.linchaolong.android:imagepicker:1.5] D:\android-studio\Gradle\caches\transforms-2\files-2.1\63f4dd50bd541ab98cec0c2e11a16672\jetified-imagepicker-1.5\AndroidManifest.xml:20:17-67
+50                android:resource="@xml/provider_paths" />
+50-->[com.linchaolong.android:imagepicker:1.5] D:\android-studio\Gradle\caches\transforms-2\files-2.1\63f4dd50bd541ab98cec0c2e11a16672\jetified-imagepicker-1.5\AndroidManifest.xml:21:17-55
+51        </provider>
+52    </application>
+53
+54</manifest>

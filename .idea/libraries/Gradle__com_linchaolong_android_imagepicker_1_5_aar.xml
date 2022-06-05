@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.linchaolong.android:imagepicker:1.5@aar">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/Gradle/caches/transforms-2/files-2.1/63f4dd50bd541ab98cec0c2e11a16672/jetified-imagepicker-1.5/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/Gradle/caches/transforms-2/files-2.1/63f4dd50bd541ab98cec0c2e11a16672/jetified-imagepicker-1.5/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$APPLICATION_HOME_DIR$/Gradle/caches/modules-2/files-2.1/com.linchaolong.android/imagepicker/1.5/f2cf41821fe470b07b01f26e0ea482b69b6e1b74/imagepicker-1.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$APPLICATION_HOME_DIR$/Gradle/caches/modules-2/files-2.1/com.linchaolong.android/imagepicker/1.5/a17fea4e62c7a1eeb08b9672c84ee34211de03d5/imagepicker-1.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
