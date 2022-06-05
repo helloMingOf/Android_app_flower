@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kn\\values-kn.xml",
+            "outputFile": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kn\\values-kn.xml",
             "map": [
                 {
                     "source": "D:\\android-studio\\Gradle\\caches\\transforms-2\\files-2.1\\1cd7eff88f5e86d0249af2958bf465f0\\core-1.1.0\\res\\values-kn\\values-kn.xml",

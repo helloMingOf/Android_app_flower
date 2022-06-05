@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:2:1-30:12
+ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:2:1-30:12
 MERGED from [com.lqr.optionitemview:library:1.0.7] D:\android-studio\Gradle\caches\transforms-2\files-2.1\a58c6fc92bfcb14295bf6354d7aa6429\jetified-library-1.0.7\AndroidManifest.xml:2:1-17:12
 MERGED from [com.google.android.material:material:1.0.0] D:\android-studio\Gradle\caches\transforms-2\files-2.1\01aba6feafaa9666a150e0ccab90f24c\material-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.linchaolong.android:imagepicker:1.5] D:\android-studio\Gradle\caches\transforms-2\files-2.1\63f4dd50bd541ab98cec0c2e11a16672\jetified-imagepicker-1.5\AndroidManifest.xml:2:1-25:12
@@ -40,35 +40,35 @@ MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] D:\android-studio\Gradl
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\android-studio\Gradle\caches\transforms-2\files-2.1\54ec9a60a0f20829d9c5323f1ce0908c\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\android-studio\Gradle\caches\transforms-2\files-2.1\0571339fd4cb74441b19561f6766bb98\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] D:\android-studio\Gradle\caches\transforms-2\files-2.1\0f91f258f9d0abaa0e56c019df47bd85\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:2:1-30:12
 	package
-		ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:3:5-33
-		INJECTED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml
+		ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml
-		ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:2:1-30:12
-		INJECTED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml
+		ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml
-		ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:2:1-30:12
-		INJECTED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml
+		ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:4:5-67
+ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:4:5-67
 	android:name
-		ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:4:22-64
+		ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:4:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:5:5-81
+ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:5:5-81
 MERGED from [com.linchaolong.android:imagepicker:1.5] D:\android-studio\Gradle\caches\transforms-2\files-2.1\63f4dd50bd541ab98cec0c2e11a16672\jetified-imagepicker-1.5\AndroidManifest.xml:10:5-81
 MERGED from [com.linchaolong.android:imagepicker:1.5] D:\android-studio\Gradle\caches\transforms-2\files-2.1\63f4dd50bd541ab98cec0c2e11a16672\jetified-imagepicker-1.5\AndroidManifest.xml:10:5-81
 	android:name
-		ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:5:22-78
+		ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:5:22-78
 application
-ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:6:5-28:19
+ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:6:5-28:19
 MERGED from [com.lqr.optionitemview:library:1.0.7] D:\android-studio\Gradle\caches\transforms-2\files-2.1\a58c6fc92bfcb14295bf6354d7aa6429\jetified-library-1.0.7\AndroidManifest.xml:11:5-15:19
 MERGED from [com.lqr.optionitemview:library:1.0.7] D:\android-studio\Gradle\caches\transforms-2\files-2.1\a58c6fc92bfcb14295bf6354d7aa6429\jetified-library-1.0.7\AndroidManifest.xml:11:5-15:19
 MERGED from [com.google.android.material:material:1.0.0] D:\android-studio\Gradle\caches\transforms-2\files-2.1\01aba6feafaa9666a150e0ccab90f24c\material-1.0.0\AndroidManifest.xml:22:5-20
@@ -86,63 +86,63 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\android-
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] D:\android-studio\Gradle\caches\transforms-2\files-2.1\1cd7eff88f5e86d0249af2958bf465f0\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:11:9-35
 	android:label
-		ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:9:9-41
+		ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:9:9-41
 	android:roundIcon
-		ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:10:9-54
+		ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:10:9-54
 	android:icon
-		ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:8:9-43
+		ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:8:9-43
 	android:allowBackup
-		ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:7:9-35
+		ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:7:9-35
 	android:theme
-		ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:14:9-40
+		ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:14:9-40
 	android:networkSecurityConfig
-		ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:12:9-69
+		ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:12:9-69
 	android:usesCleartextTraffic
-		ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:13:9-44
+		ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:13:9-44
 activity#com.example.flower.MainActivity
-ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:15:9-21:20
+ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:15:9-21:20
 	android:name
-		ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:15:19-47
+		ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:15:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:16:13-20:29
+ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:17:17-69
+ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:17:25-66
+		ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:19:17-77
+ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:19:27-74
+		ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:19:27-74
 activity#com.example.flower.message.PersonInfo
-ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:22:9-56
+ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:22:9-56
 	android:name
-		ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:22:19-53
+		ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:22:19-53
 activity#com.example.flower.message.Setting
-ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:23:9-53
+ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:23:9-53
 	android:name
-		ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:23:19-50
+		ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:23:19-50
 activity#com.example.flower.message.EditName
-ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:24:9-54
+ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:24:9-54
 	android:name
-		ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:24:19-51
+		ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:24:19-51
 activity#com.example.flower.Login.UI
-ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:25:9-46
+ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:25:9-46
 	android:name
-		ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:25:19-43
+		ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:25:19-43
 activity#com.example.flower.Login.Register
-ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:26:9-52
+ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:26:9-52
 	android:name
-		ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:26:19-49
+		ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:26:19-49
 activity#com.example.flower.ui.message
-ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:27:9-48
+ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:27:9-48
 	android:name
-		ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml:27:19-45
+		ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:27:19-45
 uses-sdk
-INJECTED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml
-INJECTED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml
+INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml
+INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml
 MERGED from [com.lqr.optionitemview:library:1.0.7] D:\android-studio\Gradle\caches\transforms-2\files-2.1\a58c6fc92bfcb14295bf6354d7aa6429\jetified-library-1.0.7\AndroidManifest.xml:7:5-9:41
 MERGED from [com.lqr.optionitemview:library:1.0.7] D:\android-studio\Gradle\caches\transforms-2\files-2.1\a58c6fc92bfcb14295bf6354d7aa6429\jetified-library-1.0.7\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.material:material:1.0.0] D:\android-studio\Gradle\caches\transforms-2\files-2.1\01aba6feafaa9666a150e0ccab90f24c\material-1.0.0\AndroidManifest.xml:20:5-44
@@ -215,16 +215,16 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\android-studio
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\android-studio\Gradle\caches\transforms-2\files-2.1\0571339fd4cb74441b19561f6766bb98\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] D:\android-studio\Gradle\caches\transforms-2\files-2.1\0f91f258f9d0abaa0e56c019df47bd85\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] D:\android-studio\Gradle\caches\transforms-2\files-2.1\0f91f258f9d0abaa0e56c019df47bd85\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-INJECTED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml
-INJECTED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml
+INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml
+INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml
-		ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml
+		ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml
-		ADDED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Android-project\keshe\app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml
+		ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.CAMERA
 ADDED from [com.linchaolong.android:imagepicker:1.5] D:\android-studio\Gradle\caches\transforms-2\files-2.1\63f4dd50bd541ab98cec0c2e11a16672\jetified-imagepicker-1.5\AndroidManifest.xml:9:5-65
 	android:name

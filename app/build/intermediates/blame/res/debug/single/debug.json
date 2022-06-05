@@ -1,306 +1,306 @@
 [
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_foreground.png.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_foreground.png"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_shopping_cart_black_18.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\baseline_shopping_cart_black_18.png"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_setting_people.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\mipmap-xhdpi\\setting_people.png"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_comment.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\ic_comment.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_2_fill_black.png.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\drawable\\home_2_fill_black.png"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_outline_shopping_cart_black_18.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\outline_shopping_cart_black_18.png"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_shopping_cart_black_18.png.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\drawable\\baseline_shopping_cart_black_18.png"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_outline_fastfood_black_18.png.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\drawable\\outline_fastfood_black_18.png"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\layout\\fragment_home.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_arrow_down.png.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\mipmap-xhdpi\\arrow_down.png"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\ic_search.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\xml_file_paths.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\xml\\file_paths.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_arrow_forward.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\mipmap-xhdpi\\arrow_forward.png"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_group_layout.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\layout\\item_group_layout.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_camera_2_fill.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\camera_2_fill.png"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\layout_photo_select.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\layout\\photo_select.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_box.png.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\drawable\\add_box.png"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_message.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\layout\\fragment_message.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_name.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\layout\\activity_edit_name.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\layout_viewpager_message_pager.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\layout\\viewpager_message_pager.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_outline_shopping_cart_black_18.png.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\drawable\\outline_shopping_cart_black_18.png"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\drawable\\ic_search.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arrow_back.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\arrow_back.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_person_info.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\layout\\activity_person_info.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_eye.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\ic_eye.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_camera_2_fill.png.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\drawable\\camera_2_fill.png"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_settings.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\ic_settings.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_eye.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\drawable\\ic_eye.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_eye_visible.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\ic_eye_visible.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_box.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\add_box.png"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\layout_bar_title.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\layout\\bar_title.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_message_layout.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\layout\\item_message_layout.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_person_info.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\layout\\activity_person_info.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_viewpager_inform_pager.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\layout\\viewpager_inform_pager.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_share.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\drawable\\ic_share.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\layout_viewpager_inform_pager.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\layout\\viewpager_inform_pager.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_eye_visible.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\drawable\\ic_eye_visible.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_message_layout.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\layout\\item_message_layout.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_outline_fastfood_black_18.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\outline_fastfood_black_18.png"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_bar_title.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\layout\\bar_title.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_textsms_black_18.png.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\drawable\\baseline_textsms_black_18.png"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_setting.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\layout\\activity_setting.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arrow_back.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\drawable\\arrow_back.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_input_background.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\input_background.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_arrow_forward.png.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\mipmap-xhdpi\\arrow_forward.png"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_setting.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\mipmap-xhdpi\\setting.png"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_outline_person_black_18.png.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\drawable\\outline_person_black_18.png"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_article_layout.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\layout\\item_article_layout.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_viewpager_follow_pager.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\layout\\viewpager_follow_pager.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_person_black_18.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\baseline_person_black_18.png"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_default_header.jpg.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\mipmap-xhdpi\\default_header.jpg"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\layout_viewpager_follow_pager.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\layout\\viewpager_follow_pager.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_setting_more.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\mipmap-xhdpi\\setting_more.png"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_foreground.png.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_foreground.png"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_outline_textsms_black_18.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\outline_textsms_black_18.png"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_2_line.png.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\drawable\\home_2_line.png"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_textsms_black_18.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\baseline_textsms_black_18.png"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\xml\\network_security_config.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_arrow_down.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\mipmap-xhdpi\\arrow_down.png"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_setting_more.png.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\mipmap-xhdpi\\setting_more.png"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_like.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\ic_like.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\layout\\activity_register.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_2_fill_black.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\home_2_fill_black.png"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_group_layout.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\layout\\item_group_layout.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_viewpager_message_pager.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\layout\\viewpager_message_pager.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\ic_person.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_input_background.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\drawable\\input_background.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_message.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\layout\\fragment_message.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_article.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\layout\\activity_add_article.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_encyclopedia.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\layout\\fragment_encyclopedia.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_like.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\drawable\\ic_like.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_photo_select.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\layout\\photo_select.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_shopping.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\layout\\fragment_shopping.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_article_layout.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\layout\\item_article_layout.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_setting_people.png.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\mipmap-xhdpi\\setting_people.png"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_shopping.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\layout\\fragment_shopping.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_setting_location.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\mipmap-xhdpi\\setting_location.png"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_viewpager_recommend_pager.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\layout\\viewpager_recommend_pager.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_outline_person_black_18.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\outline_person_black_18.png"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arrow_forward.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\drawable\\arrow_forward.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_encyclopedia.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\layout\\fragment_encyclopedia.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black_24dp.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\layout_viewpager_recommend_pager.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\layout\\viewpager_recommend_pager.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_setting.png.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\mipmap-xhdpi\\setting.png"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_name.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\layout\\activity_edit_name.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_foreground.png"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_article.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\layout\\activity_add_article.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_comment.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\drawable\\ic_comment.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_foreground.png.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_foreground.png"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\xml_file_paths.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\xml\\file_paths.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_person_black_18.png.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\drawable\\baseline_person_black_18.png"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arrow_forward.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\arrow_forward.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_setting.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\layout\\activity_setting.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_person.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\layout\\fragment_person.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_outline_textsms_black_18.png.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\drawable\\outline_textsms_black_18.png"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\layout\\activity_login.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_default_header.jpg.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\mipmap-xhdpi\\default_header.jpg"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_lock_black.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\ic_lock_black.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_setting_location.png.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\mipmap-xhdpi\\setting_location.png"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\layout\\activity_register.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_eye_invisible.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\drawable\\ic_eye_invisible.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_share.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\ic_share.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_settings.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\drawable\\ic_settings.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_2_line.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\home_2_line.png"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\layout\\fragment_home.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\xml\\network_security_config.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_lock_black.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\drawable\\ic_lock_black.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_person.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\layout\\fragment_person.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_eye_invisible.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\ic_eye_invisible.xml"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "D:\\Android-project\\keshe\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person.xml.flat",
-        "source": "D:\\Android-project\\keshe\\app\\app\\src\\main\\res\\drawable\\ic_person.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     }
 ]
