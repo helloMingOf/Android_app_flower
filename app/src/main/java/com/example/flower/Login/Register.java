@@ -201,7 +201,7 @@ public class Register extends AppCompatActivity implements View.OnClickListener 
         user.setId(id);
         user.setName(name);
         user.setPassword(password);
-        String url2 = "http://172.17.143.35:88/json/Register.php";
+        String url2 = "http://172.17.143.35:8008/register/";
         URL url = new URL(url2);
         HttpURLConnection http = (HttpURLConnection) url.openConnection();
         String params = "uid=" + user.getId() + '&' + "name=" + user.getName()+ '&' + "region=" + user.getRegion()+ '&' + "gender=" + user.getGender()+ '&' + "birthday=" + user.getBrithday()+ '&' + "password=" + user.getPassword();
