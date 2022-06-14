@@ -3,6 +3,7 @@ package com.example.flower;
 
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.graphics.Bitmap;
 import android.os.Bundle;
 import android.os.Looper;
 import android.text.method.HideReturnsTransformationMethod;
@@ -16,6 +17,7 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.bumptech.glide.Glide;
 import com.example.flower.Login.Register;
 import com.example.flower.Login.UI;
 
@@ -183,7 +185,14 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 user.setGender(jsonObject.getString("gender"));
                 user.setBrithday(jsonObject.getString("birthday"));
                 user.setpicture(jsonObject.getString("picture"));
-
+                final String yourUrl = "http://172.17.143.35:8008/media/"+user.getpicture();
+                Bitmap bitmap= Glide.with(getApplicationContext())
+                        .load(yourUrl)
+                        .asBitmap() //必须
+                        .centerCrop()
+                        .into(500, 500)
+                        .get();
+                user.setPortrait(bitmap);
                 LoginUser.getInstance().login(user);
             }
         } catch (Exception e) {

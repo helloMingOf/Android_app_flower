@@ -40,6 +40,7 @@
         <activity android:name="com.example.flower.Login.UI" />
         <activity android:name="com.example.flower.Login.Register" />
         <activity android:name="com.example.flower.ui.message" />
+        <activity android:name="com.example.flower.AddArticle" />
 
         <provider
             android:name="androidx.core.content.FileProvider"

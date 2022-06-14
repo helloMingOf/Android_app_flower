@@ -1,5 +1,6 @@
 package com.example.flower.Login;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
@@ -8,11 +9,13 @@ import androidx.fragment.app.FragmentActivity;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
 
+import com.example.flower.AddArticle;
 import com.example.flower.R;
 import com.example.flower.ui.encyclopedia;
 import com.example.flower.ui.home;
 import com.example.flower.ui.message;
 import com.example.flower.ui.shopping;
+import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 public class UI extends FragmentActivity implements View.OnClickListener {
 
@@ -26,7 +29,7 @@ public class UI extends FragmentActivity implements View.OnClickListener {
     private encyclopedia daoHangFragment;
     private shopping faXianFragment;
     private message woDeFragment;
-
+    private FloatingActionButton addarticle;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -35,9 +38,9 @@ public class UI extends FragmentActivity implements View.OnClickListener {
         daohang=(ImageView)findViewById(R.id.daohang);
         faxian=(ImageView)findViewById(R.id.faxian);
         wode=(ImageView)findViewById(R.id.wode);
-
+        addarticle=findViewById(R.id.addarticle);
         fragmentManager=getSupportFragmentManager();
-
+        addarticle.setOnClickListener(this);
         tuijian.setOnClickListener(this);
         daohang.setOnClickListener(this);
         faxian.setOnClickListener(this);

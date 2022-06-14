@@ -1259,12 +1259,15 @@ id action_text
 id actions
 id activity_chooser_view_content
 id add
+id add_text
+id addarticle
 id alertTitle
 id all
 id always
 id async
 id author
 id auto
+id backward
 id barrier
 id beginning
 id blocking
@@ -1333,6 +1336,7 @@ id fitCenter
 id fixed
 id fl
 id forever
+id forward
 id from_albums
 id ghost_view
 id gone

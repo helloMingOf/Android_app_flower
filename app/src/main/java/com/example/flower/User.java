@@ -1,6 +1,8 @@
 package com.example.flower;
 
 
+import android.graphics.Bitmap;
+
 import androidx.annotation.NonNull;
 
 import org.litepal.crud.LitePalSupport;
@@ -18,6 +20,7 @@ public class User extends LitePalSupport implements Comparable<User> {
     private String password;
     private String region;
     private String gender;
+    private Bitmap portrait;
     private String brithday;
     private String picture;
     @Override
@@ -30,6 +33,7 @@ public class User extends LitePalSupport implements Comparable<User> {
                 ", gender='" + gender + '\'' +
                 ", brithday='" + brithday + '\'' +
                 ", picture='" + picture + '\'' +
+                ", portrait='" + portrait + '\'' +
                 '}';
     }
 
@@ -94,7 +98,13 @@ public class User extends LitePalSupport implements Comparable<User> {
         this.brithday = brithday;
     }
 
+    public Bitmap getPortrait() {
+        return portrait;
+    }
 
+    public void setPortrait(Bitmap portrait) {
+        this.portrait = portrait;
+    }
 
     public String getId() {
         return id;

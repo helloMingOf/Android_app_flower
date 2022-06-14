@@ -25,13 +25,13 @@ import java.math.RoundingMode;
 public class message extends Fragment implements View.OnClickListener {
     private ImageView setting;
     private LinearLayout info;
-    private RoundImageView to;
+    private RoundImageView ri_portrati;
     private TextView info_name,info_account;
     private LoginUser loginUser = LoginUser.getInstance();
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState){
         View view = inflater.inflate(R.layout.fragment_person, container, false);
-        to=(RoundImageView)view.findViewById(R.id.ri_portrait);
+        ri_portrati = (RoundImageView) view.findViewById(R.id.portrait);
         setting = (ImageView)view.findViewById(R.id.setting);
         info = (LinearLayout)view.findViewById(R.id.info);
         info_name = (TextView)view.findViewById(R.id.info_name);
@@ -72,5 +72,6 @@ public class message extends Fragment implements View.OnClickListener {
     private void initInfo(){
         info_name.setText(loginUser.getName());
         info_account.setText(loginUser.getId());
+        ri_portrati.setImageBitmap(loginUser.getPortrait());
     }
 }

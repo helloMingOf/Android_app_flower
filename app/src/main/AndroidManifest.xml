@@ -25,6 +25,7 @@
         <activity android:name=".Login.UI" />
         <activity android:name=".Login.Register" />
         <activity android:name=".ui.message" />
+        <activity android:name=".AddArticle" />
     </application>
 
 </manifest>

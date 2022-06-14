@@ -132,8 +132,7 @@ public class PersonInfo extends AppCompatActivity implements View.OnClickListene
         ig_gender.getContentEdt().setText(loginUser.getGender());
         ig_region.getContentEdt().setText(loginUser.getRegion());
         ig_brithday.getContentEdt().setText(loginUser.getBrithday());
-        final String url = "http://172.17.143.35:88/json/images/"+loginUser.getpicture();
-        Glide.with(getApplicationContext()).load(url);
+        ri_portrati.setImageBitmap(loginUser.getPortrait());
     }
 
     @Override
@@ -220,7 +219,8 @@ public class PersonInfo extends AppCompatActivity implements View.OnClickListene
                     try {
                         //将拍摄的图片展示并更新数据库
                         Bitmap bitmap = BitmapFactory.decodeStream((getContentResolver().openInputStream(imageUri)));
-
+                        loginUser.setPortrait(bitmap);
+                        ri_portrati.setImageBitmap(bitmap);
                     }catch (FileNotFoundException e){
                         e.printStackTrace();
                     }
@@ -239,6 +239,7 @@ public class PersonInfo extends AppCompatActivity implements View.OnClickListene
                 if(imagePath != null){
                     //将拍摄的图片展示并更新数据库
                     Bitmap bitmap = BitmapFactory.decodeFile(imagePath);
+                    loginUser.setPortrait(bitmap);
                     ri_portrati.setImageBitmap(bitmap);
 
                 }else{
