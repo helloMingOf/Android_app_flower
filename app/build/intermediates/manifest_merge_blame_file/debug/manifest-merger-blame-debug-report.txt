@@ -31,8 +31,8 @@
 18-->[androidx.core:core:1.1.0] D:\android-studio\Gradle\caches\transforms-2\files-2.1\1cd7eff88f5e86d0249af2958bf465f0\core-1.1.0\AndroidManifest.xml:24:18-86
 19        android:debuggable="true"
 20        android:extractNativeLibs="false"
-21        android:icon="@mipmap/ic_launcher"
-21-->D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:8:9-43
+21        android:icon="@mipmap/default_header"
+21-->D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:8:9-46
 22        android:label="@string/app_name"
 22-->D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:9:9-41
 23        android:networkSecurityConfig="@xml/network_security_config"

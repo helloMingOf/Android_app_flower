@@ -67,6 +67,10 @@ public class UI extends FragmentActivity implements View.OnClickListener {
                 wode.setImageResource(R.drawable.baseline_person_black_18);
                 selectFragment(3);
                 break;
+            case R.id.addarticle:
+                Intent intent = new Intent(UI.this, AddArticle.class);
+                startActivity(intent);
+                break;
             default:
                 break;
         }
