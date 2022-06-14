@@ -3,57 +3,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
-    tools:context=".AddArticle">
+    tools:context=".ui.activity.AddArticle">
 
-    <LinearLayout
-        android:id="@+id/layout_titlebar"
-        android:layout_width="match_parent"
-        android:layout_height="49dp"
-        android:background="@android:color/white">
-
-        <ImageView
-            android:id="@+id/backward"
-            android:layout_width="60dp"
-            android:layout_height="match_parent"
-            android:layout_gravity="center"
-            android:ellipsize="none"
-            android:singleLine="true"
-            android:src="@drawable/arrow_back" />
-
-        <TextView
-            android:id="@+id/tv_title"
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
-            android:layout_weight="1"
-            android:ellipsize="marquee"
-            android:gravity="center_horizontal|center"
-            android:singleLine="true"
-            android:textColor="@android:color/black"
-            android:textSize="20dp" />
-
-        <TextView
-            android:id="@+id/forward"
-            android:layout_width="60dp"
-            android:layout_height="match_parent"
-            android:layout_alignParentRight="true"
-            android:ellipsize="end"
-            android:gravity="center"
-            android:paddingRight="5dp"
-            android:singleLine="true"
-            android:text="发表"
-            android:textColor="@android:color/black"
-            android:textSize="18dp" />
-
-    </LinearLayout>
-
-    <EditText
-        android:id="@+id/add_text"
-        android:layout_width="fill_parent"
-        android:layout_height="194dp"
-        android:gravity="left|top"
-        android:hint="请输入您的文章内容"
-        android:inputType="textMultiLine"
-        android:minLines="6" />
-
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="添加文章"/>
 </LinearLayout>

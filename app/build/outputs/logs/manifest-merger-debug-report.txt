@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:2:1-31:12
+ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:2:1-30:12
 MERGED from [com.lqr.optionitemview:library:1.0.7] D:\android-studio\Gradle\caches\transforms-2\files-2.1\a58c6fc92bfcb14295bf6354d7aa6429\jetified-library-1.0.7\AndroidManifest.xml:2:1-17:12
 MERGED from [com.google.android.material:material:1.0.0] D:\android-studio\Gradle\caches\transforms-2\files-2.1\01aba6feafaa9666a150e0ccab90f24c\material-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.linchaolong.android:imagepicker:1.5] D:\android-studio\Gradle\caches\transforms-2\files-2.1\63f4dd50bd541ab98cec0c2e11a16672\jetified-imagepicker-1.5\AndroidManifest.xml:2:1-25:12
@@ -40,20 +40,20 @@ MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] D:\android-studio\Gradl
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\android-studio\Gradle\caches\transforms-2\files-2.1\54ec9a60a0f20829d9c5323f1ce0908c\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\android-studio\Gradle\caches\transforms-2\files-2.1\0571339fd4cb74441b19561f6766bb98\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] D:\android-studio\Gradle\caches\transforms-2\files-2.1\0f91f258f9d0abaa0e56c019df47bd85\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:2:1-30:12
 	package
 		ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:3:5-33
 		INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml
 		INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml
-		ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:2:1-31:12
+		ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:2:1-30:12
 		INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml
-		ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:2:1-31:12
+		ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:2:1-30:12
 		INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:2:11-69
@@ -68,7 +68,7 @@ MERGED from [com.linchaolong.android:imagepicker:1.5] D:\android-studio\Gradle\c
 	android:name
 		ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:5:22-78
 application
-ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:6:5-29:19
+ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:6:5-28:19
 MERGED from [com.lqr.optionitemview:library:1.0.7] D:\android-studio\Gradle\caches\transforms-2\files-2.1\a58c6fc92bfcb14295bf6354d7aa6429\jetified-library-1.0.7\AndroidManifest.xml:11:5-15:19
 MERGED from [com.lqr.optionitemview:library:1.0.7] D:\android-studio\Gradle\caches\transforms-2\files-2.1\a58c6fc92bfcb14295bf6354d7aa6429\jetified-library-1.0.7\AndroidManifest.xml:11:5-15:19
 MERGED from [com.google.android.material:material:1.0.0] D:\android-studio\Gradle\caches\transforms-2\files-2.1\01aba6feafaa9666a150e0ccab90f24c\material-1.0.0\AndroidManifest.xml:22:5-20
@@ -135,14 +135,10 @@ activity#com.example.flower.Login.Register
 ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:26:9-52
 	android:name
 		ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:26:19-49
-activity#com.example.flower.AddArticle
+activity#com.example.flower.ui.message
 ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:27:9-48
 	android:name
 		ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:27:19-45
-activity#com.example.flower.ui.message
-ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:28:9-48
-	android:name
-		ADDED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:28:19-45
 uses-sdk
 INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml

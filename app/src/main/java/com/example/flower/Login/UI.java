@@ -1,24 +1,18 @@
 package com.example.flower.Login;
 
-import android.content.Intent;
 import android.os.Bundle;
-import android.service.controls.actions.FloatAction;
 import android.view.View;
-import android.widget.Button;
 import android.widget.ImageView;
 
 import androidx.fragment.app.FragmentActivity;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
 
-import com.example.flower.AddArticle;
-import com.example.flower.MainActivity;
 import com.example.flower.R;
 import com.example.flower.ui.encyclopedia;
 import com.example.flower.ui.home;
 import com.example.flower.ui.message;
 import com.example.flower.ui.shopping;
-import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 public class UI extends FragmentActivity implements View.OnClickListener {
 
@@ -26,7 +20,6 @@ public class UI extends FragmentActivity implements View.OnClickListener {
     private ImageView daohang;
     private ImageView faxian;
     private ImageView wode;
-    private FloatingActionButton addarticle;
     FragmentManager fragmentManager;
 
     private home tuiJianFragment;
@@ -42,10 +35,9 @@ public class UI extends FragmentActivity implements View.OnClickListener {
         daohang=(ImageView)findViewById(R.id.daohang);
         faxian=(ImageView)findViewById(R.id.faxian);
         wode=(ImageView)findViewById(R.id.wode);
-        addarticle=findViewById(R.id.addarticle);
 
         fragmentManager=getSupportFragmentManager();
-        addarticle.setOnClickListener(this);
+
         tuijian.setOnClickListener(this);
         daohang.setOnClickListener(this);
         faxian.setOnClickListener(this);
@@ -75,9 +67,6 @@ public class UI extends FragmentActivity implements View.OnClickListener {
                 wode.setImageResource(R.drawable.baseline_person_black_18);
                 selectFragment(3);
                 break;
-            case R.id.addarticle:
-                Intent intent = new Intent(UI.this, AddArticle.class);
-                startActivity(intent);
             default:
                 break;
         }

@@ -38,7 +38,6 @@
         <activity android:name="com.example.flower.message.EditName" />
         <activity android:name="com.example.flower.Login.UI" />
         <activity android:name="com.example.flower.Login.Register" />
-        <activity android:name="com.example.flower.AddArticle" />
         <activity android:name="com.example.flower.ui.message" />
 
         <provider
