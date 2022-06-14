@@ -56,7 +56,7 @@ public class home extends Fragment {
         return view;
     }
     private void getData()throws IOException {
-        String urlstr = "http://172.17.143.35:88/json/listjson.php";
+        String urlstr = "http://172.17.143.35:8008/articles/";
         URL url = new URL(urlstr);
         HttpURLConnection http = (HttpURLConnection) url.openConnection();
         http.setRequestMethod("GET");
@@ -70,6 +70,7 @@ public class home extends Fragment {
         try {
             Gson gson = new Gson();
             list = gson.fromJson(result ,new TypeToken<List<HashMap<String, Object>>>() {}.getType());
+
             mData.clear();
             mData.addAll(list);
             adapter.notifyDataSetChanged();
@@ -104,7 +105,7 @@ public class home extends Fragment {
 
         @Override
         public void onBindViewHolder(@NonNull MyRecycleViewAdapter.ViewHolder holder, final int position) {
-            final String url = "http://172.17.143.35:88/json/images/"+list.get(position).get("picture");
+            final String url = "http://172.17.143.35:8008/media/"+list.get(position).get("picture");
             Glide.with(getContext()).load(url).into(holder.picture);
             holder.author.setText((String)mData.get(position).get("author"));
             holder.time.setText((String)mData.get(position).get("time"));

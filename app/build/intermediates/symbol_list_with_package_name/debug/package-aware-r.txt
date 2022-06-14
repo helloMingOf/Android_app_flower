@@ -1259,12 +1259,15 @@ id action_text
 id actions
 id activity_chooser_view_content
 id add
+id add_text
+id addarticle
 id alertTitle
 id all
 id always
 id async
 id author
 id auto
+id backward
 id barrier
 id beginning
 id blocking
@@ -1303,7 +1306,6 @@ id daohang
 id day
 id decor_content_parent
 id default_activity_button
-id delete_item
 id design_bottom_sheet
 id design_menu_item_action_area
 id design_menu_item_action_area_stub
@@ -1333,6 +1335,7 @@ id fitCenter
 id fixed
 id fl
 id forever
+id forward
 id from_albums
 id ghost_view
 id gone
@@ -1378,7 +1381,6 @@ id line1
 id line3
 id listMode
 id list_item
-id ll
 id ll_portrait
 id login
 id masked
@@ -1428,10 +1430,6 @@ id progress_horizontal
 id radio
 id rectangle
 id recycler_view
-id recycler_view_follow
-id recycler_view_inform
-id recycler_view_message
-id recycler_view_recommmend
 id register
 id ri_portrait
 id right
@@ -1616,7 +1614,6 @@ layout fragment_shopping
 layout include_pickerview_topbar
 layout item_article_layout
 layout item_group_layout
-layout item_message_layout
 layout layout_basepickerview
 layout mtrl_layout_snackbar
 layout mtrl_layout_snackbar_include
@@ -1633,10 +1630,6 @@ layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
-layout viewpager_follow_pager
-layout viewpager_inform_pager
-layout viewpager_message_pager
-layout viewpager_recommend_pager
 menu crop_image_menu
 mipmap arrow_down
 mipmap arrow_forward

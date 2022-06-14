@@ -24,7 +24,7 @@
 14-->[com.linchaolong.android:imagepicker:1.5] D:\android-studio\Gradle\caches\transforms-2\files-2.1\63f4dd50bd541ab98cec0c2e11a16672\jetified-imagepicker-1.5\AndroidManifest.xml:11:22-77
 15
 16    <application
-16-->D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:6:5-28:19
+16-->D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:6:5-29:19
 17        android:allowBackup="true"
 17-->D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:7:9-35
 18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -75,27 +75,30 @@
 40        <activity android:name="com.example.flower.Login.Register" />
 40-->D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:26:9-52
 40-->D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:26:19-49
-41        <activity android:name="com.example.flower.ui.message" />
+41        <activity android:name="com.example.flower.AddArticle" />
 41-->D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:27:9-48
 41-->D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:27:19-45
-42
-43        <provider
-43-->[com.linchaolong.android:imagepicker:1.5] D:\android-studio\Gradle\caches\transforms-2\files-2.1\63f4dd50bd541ab98cec0c2e11a16672\jetified-imagepicker-1.5\AndroidManifest.xml:14:9-22:20
-44            android:name="androidx.core.content.FileProvider"
-44-->[com.linchaolong.android:imagepicker:1.5] D:\android-studio\Gradle\caches\transforms-2\files-2.1\63f4dd50bd541ab98cec0c2e11a16672\jetified-imagepicker-1.5\AndroidManifest.xml:15:13-62
-45            android:authorities="com.example.flower.imagePicker.provider"
-45-->[com.linchaolong.android:imagepicker:1.5] D:\android-studio\Gradle\caches\transforms-2\files-2.1\63f4dd50bd541ab98cec0c2e11a16672\jetified-imagepicker-1.5\AndroidManifest.xml:16:13-72
-46            android:exported="false"
-46-->[com.linchaolong.android:imagepicker:1.5] D:\android-studio\Gradle\caches\transforms-2\files-2.1\63f4dd50bd541ab98cec0c2e11a16672\jetified-imagepicker-1.5\AndroidManifest.xml:17:13-37
-47            android:grantUriPermissions="true" >
-47-->[com.linchaolong.android:imagepicker:1.5] D:\android-studio\Gradle\caches\transforms-2\files-2.1\63f4dd50bd541ab98cec0c2e11a16672\jetified-imagepicker-1.5\AndroidManifest.xml:18:13-47
-48            <meta-data
-48-->[com.linchaolong.android:imagepicker:1.5] D:\android-studio\Gradle\caches\transforms-2\files-2.1\63f4dd50bd541ab98cec0c2e11a16672\jetified-imagepicker-1.5\AndroidManifest.xml:19:13-21:58
-49                android:name="android.support.FILE_PROVIDER_PATHS"
-49-->[com.linchaolong.android:imagepicker:1.5] D:\android-studio\Gradle\caches\transforms-2\files-2.1\63f4dd50bd541ab98cec0c2e11a16672\jetified-imagepicker-1.5\AndroidManifest.xml:20:17-67
-50                android:resource="@xml/provider_paths" />
-50-->[com.linchaolong.android:imagepicker:1.5] D:\android-studio\Gradle\caches\transforms-2\files-2.1\63f4dd50bd541ab98cec0c2e11a16672\jetified-imagepicker-1.5\AndroidManifest.xml:21:17-55
-51        </provider>
-52    </application>
-53
-54</manifest>
+42        <activity android:name="com.example.flower.ui.message" />
+42-->D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:28:9-48
+42-->D:\ftp\kj6\flower\Android_app_flower\app\src\main\AndroidManifest.xml:28:19-45
+43
+44        <provider
+44-->[com.linchaolong.android:imagepicker:1.5] D:\android-studio\Gradle\caches\transforms-2\files-2.1\63f4dd50bd541ab98cec0c2e11a16672\jetified-imagepicker-1.5\AndroidManifest.xml:14:9-22:20
+45            android:name="androidx.core.content.FileProvider"
+45-->[com.linchaolong.android:imagepicker:1.5] D:\android-studio\Gradle\caches\transforms-2\files-2.1\63f4dd50bd541ab98cec0c2e11a16672\jetified-imagepicker-1.5\AndroidManifest.xml:15:13-62
+46            android:authorities="com.example.flower.imagePicker.provider"
+46-->[com.linchaolong.android:imagepicker:1.5] D:\android-studio\Gradle\caches\transforms-2\files-2.1\63f4dd50bd541ab98cec0c2e11a16672\jetified-imagepicker-1.5\AndroidManifest.xml:16:13-72
+47            android:exported="false"
+47-->[com.linchaolong.android:imagepicker:1.5] D:\android-studio\Gradle\caches\transforms-2\files-2.1\63f4dd50bd541ab98cec0c2e11a16672\jetified-imagepicker-1.5\AndroidManifest.xml:17:13-37
+48            android:grantUriPermissions="true" >
+48-->[com.linchaolong.android:imagepicker:1.5] D:\android-studio\Gradle\caches\transforms-2\files-2.1\63f4dd50bd541ab98cec0c2e11a16672\jetified-imagepicker-1.5\AndroidManifest.xml:18:13-47
+49            <meta-data
+49-->[com.linchaolong.android:imagepicker:1.5] D:\android-studio\Gradle\caches\transforms-2\files-2.1\63f4dd50bd541ab98cec0c2e11a16672\jetified-imagepicker-1.5\AndroidManifest.xml:19:13-21:58
+50                android:name="android.support.FILE_PROVIDER_PATHS"
+50-->[com.linchaolong.android:imagepicker:1.5] D:\android-studio\Gradle\caches\transforms-2\files-2.1\63f4dd50bd541ab98cec0c2e11a16672\jetified-imagepicker-1.5\AndroidManifest.xml:20:17-67
+51                android:resource="@xml/provider_paths" />
+51-->[com.linchaolong.android:imagepicker:1.5] D:\android-studio\Gradle\caches\transforms-2\files-2.1\63f4dd50bd541ab98cec0c2e11a16672\jetified-imagepicker-1.5\AndroidManifest.xml:21:17-55
+52        </provider>
+53    </application>
+54
+55</manifest>

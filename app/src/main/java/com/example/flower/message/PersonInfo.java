@@ -30,7 +30,6 @@ import com.bigkoo.pickerview.listener.OnOptionsSelectListener;
 import com.bigkoo.pickerview.listener.OnTimeSelectListener;
 import com.bigkoo.pickerview.view.OptionsPickerView;
 import com.bigkoo.pickerview.view.TimePickerView;
-import com.bumptech.glide.Glide;
 import com.example.flower.ActivityCollector;
 import com.example.flower.LoginUser;
 import com.example.flower.R;
@@ -132,8 +131,7 @@ public class PersonInfo extends AppCompatActivity implements View.OnClickListene
         ig_gender.getContentEdt().setText(loginUser.getGender());
         ig_region.getContentEdt().setText(loginUser.getRegion());
         ig_brithday.getContentEdt().setText(loginUser.getBrithday());
-        final String url = "http://172.17.143.35:88/json/images/"+loginUser.getpicture();
-        Glide.with(getApplicationContext()).load(url);
+        ri_portrati.setImageBitmap(loginUser.getPortrait());
     }
 
     @Override
@@ -220,7 +218,8 @@ public class PersonInfo extends AppCompatActivity implements View.OnClickListene
                     try {
                         //将拍摄的图片展示并更新数据库
                         Bitmap bitmap = BitmapFactory.decodeStream((getContentResolver().openInputStream(imageUri)));
-
+                        loginUser.setPortrait(bitmap);
+                        ri_portrati.setImageBitmap(bitmap);
                     }catch (FileNotFoundException e){
                         e.printStackTrace();
                     }
@@ -240,7 +239,7 @@ public class PersonInfo extends AppCompatActivity implements View.OnClickListene
                     //将拍摄的图片展示并更新数据库
                     Bitmap bitmap = BitmapFactory.decodeFile(imagePath);
                     ri_portrati.setImageBitmap(bitmap);
-
+                    loginUser.setPortrait(bitmap);
                 }else{
                     Log.d("food","没有找到图片");
                 }

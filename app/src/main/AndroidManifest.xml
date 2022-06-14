@@ -24,6 +24,7 @@
         <activity android:name=".message.EditName" />
         <activity android:name=".Login.UI" />
         <activity android:name=".Login.Register" />
+        <activity android:name=".AddArticle" />
         <activity android:name=".ui.message" />
     </application>
 

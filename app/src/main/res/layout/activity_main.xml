@@ -27,6 +27,7 @@
         android:orientation="horizontal"
         android:background="#DCDCDC"
         android:gravity="center">
+
         <ImageView
             android:id="@+id/tuijian"
             android:layout_width="0dp"
@@ -41,6 +42,16 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:src="@drawable/outline_textsms_black_18" />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/addarticle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:clickable="true"
+            android:foreground="@android:drawable/ic_menu_add"
+            app:backgroundTint="#FFFFFF"
+            app:srcCompat="@android:drawable/ic_input_add" />
 
         <ImageView
             android:id="@+id/faxian"
