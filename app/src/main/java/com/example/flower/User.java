@@ -5,16 +5,14 @@ import android.graphics.Bitmap;
 
 import androidx.annotation.NonNull;
 
-import org.litepal.crud.LitePalSupport;
 
-import java.util.ArrayList;
-import java.util.List;
+
 
 /**
 LitePal巨坑之一！下面的属性remember本可以设计为boolean值，但是LitePal的boolean值update不了！int尝试也不行！所以只能用Integer代替。
  解决：使用update更新数据
  **/
-public class User extends LitePalSupport implements Comparable<User> {
+public class User  implements Comparable<User> {
     private String id;
     private String name;
     private String password;

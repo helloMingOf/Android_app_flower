@@ -63,7 +63,5 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:src="@drawable/outline_person_black_18" />
-
-
     </LinearLayout>
 </LinearLayout>

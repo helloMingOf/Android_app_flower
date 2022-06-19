@@ -13,7 +13,6 @@ import androidx.appcompat.widget.AppCompatImageView;
 
 
 public class RoundImageView extends AppCompatImageView {
-
     public RoundImageView(Context context, AttributeSet attrs) {
         super(context, attrs);
         init();

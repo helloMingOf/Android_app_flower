@@ -28,7 +28,6 @@
             android:hint="新的ID号"
             android:inputType="textPersonName" />
     </LinearLayout>
-
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -48,18 +47,15 @@
             android:hint="新的密码"
             android:inputType="textPersonName" />
     </LinearLayout>
-
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
-
         <TextView
             android:layout_width="85dp"
             android:layout_height="45dp"
             android:text="密码"
             android:textSize="18sp" />
-
         <EditText
             android:id="@+id/new_ig_password_1"
             android:layout_width="match_parent"
@@ -68,7 +64,6 @@
             android:hint="输入第二次密码"
             android:inputType="textPersonName" />
     </LinearLayout>
-
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

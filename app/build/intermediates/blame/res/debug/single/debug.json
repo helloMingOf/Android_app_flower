@@ -1,5 +1,21 @@
 [
     {
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_tab.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\layout\\item_tab.xml"
+    },
+    {
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\layout_item.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_tab_query_pressed.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\mipmap-mdpi\\tab_query_pressed.png"
+    },
+    {
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_tab_query_normal.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\mipmap-mdpi\\tab_query_normal.png"
+    },
+    {
         "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_shopping_cart_black_18.png.flat",
         "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\baseline_shopping_cart_black_18.png"
     },
@@ -16,12 +32,12 @@
         "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\outline_shopping_cart_black_18.png"
     },
     {
-        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_foreground.png.flat",
-        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_foreground.png"
-    },
-    {
         "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
         "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_foreground.png"
     },
     {
         "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search.xml.flat",
@@ -32,12 +48,12 @@
         "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\mipmap-xhdpi\\arrow_forward.png"
     },
     {
-        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_camera_2_fill.png.flat",
-        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\camera_2_fill.png"
-    },
-    {
         "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
         "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_camera_2_fill.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\camera_2_fill.png"
     },
     {
         "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\layout_photo_select.xml.flat",
@@ -54,10 +70,6 @@
     {
         "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
         "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\layout_viewpager_message_pager.xml.flat",
-        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\layout\\viewpager_message_pager.xml"
     },
     {
         "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_foreground.png.flat",
@@ -80,10 +92,6 @@
         "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\ic_eye_visible.xml"
     },
     {
-        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_box.png.flat",
-        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\add_box.png"
-    },
-    {
         "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\layout_bar_title.xml.flat",
         "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\layout\\bar_title.xml"
     },
@@ -92,16 +100,12 @@
         "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\layout\\activity_person_info.xml"
     },
     {
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_box.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\add_box.png"
+    },
+    {
         "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\layout_viewpager_inform_pager.xml.flat",
-        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\layout\\viewpager_inform_pager.xml"
-    },
-    {
-        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_message_layout.xml.flat",
-        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\layout\\item_message_layout.xml"
     },
     {
         "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_outline_fastfood_black_18.png.flat",
@@ -132,10 +136,6 @@
         "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\baseline_person_black_18.png"
     },
     {
-        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\layout_viewpager_follow_pager.xml.flat",
-        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\layout\\viewpager_follow_pager.xml"
-    },
-    {
         "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_setting_more.png.flat",
         "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\mipmap-xhdpi\\setting_more.png"
     },
@@ -144,16 +144,24 @@
         "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\outline_textsms_black_18.png"
     },
     {
-        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_textsms_black_18.png.flat",
-        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\baseline_textsms_black_18.png"
-    },
-    {
         "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_arrow_down.png.flat",
         "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\mipmap-xhdpi\\arrow_down.png"
     },
     {
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_textsms_black_18.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\baseline_textsms_black_18.png"
+    },
+    {
         "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_like.xml.flat",
         "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\ic_like.xml"
+    },
+    {
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_tab_predict_pressed.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\mipmap-mdpi\\tab_predict_pressed.png"
+    },
+    {
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_tab_predict_normal.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\mipmap-mdpi\\tab_predict_normal.png"
     },
     {
         "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_2_fill_black.png.flat",
@@ -172,12 +180,12 @@
         "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_message.xml.flat",
-        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\layout\\fragment_message.xml"
-    },
-    {
         "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
         "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_message.xml.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\layout\\fragment_message.xml"
     },
     {
         "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
@@ -192,6 +200,10 @@
         "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_tab_user_pressed.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\mipmap-mdpi\\tab_user_pressed.png"
+    },
+    {
         "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_shopping.xml.flat",
         "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\layout\\fragment_shopping.xml"
     },
@@ -202,6 +214,10 @@
     {
         "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
         "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_tab_home_normal.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\mipmap-mdpi\\tab_home_normal.png"
     },
     {
         "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_setting_location.png.flat",
@@ -220,8 +236,8 @@
         "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\layout\\fragment_encyclopedia.xml"
     },
     {
-        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\layout_viewpager_recommend_pager.xml.flat",
-        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\layout\\viewpager_recommend_pager.xml"
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_tab_home_pressed.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\mipmap-mdpi\\tab_home_pressed.png"
     },
     {
         "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_name.xml.flat",
@@ -250,6 +266,10 @@
     {
         "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arrow_forward.xml.flat",
         "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\arrow_forward.xml"
+    },
+    {
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_tab_user_normal.png.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\mipmap-mdpi\\tab_user_normal.png"
     },
     {
         "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_person.xml.flat",

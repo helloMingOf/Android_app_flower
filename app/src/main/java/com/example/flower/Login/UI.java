@@ -56,6 +56,7 @@ public class UI extends FragmentActivity implements View.OnClickListener {
         switch (v.getId()) {
             case R.id.tuijian:
                 tuijian.setImageResource(R.drawable.home_2_fill_black);
+
                 selectFragment(0);
                 break;
             case R.id.daohang:
@@ -95,7 +96,6 @@ public class UI extends FragmentActivity implements View.OnClickListener {
 
                 break;
             case 1:
-
                 if (daoHangFragment==null) {
                     daoHangFragment=new encyclopedia();
                 }

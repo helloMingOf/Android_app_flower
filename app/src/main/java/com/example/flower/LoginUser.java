@@ -199,7 +199,7 @@ public class LoginUser extends Application {
             con.setRequestProperty("Content-Type", "multipart/form-data;boundary=" + boundary);
             OutputStream outputStream = new DataOutputStream(con.getOutputStream());
             String header =twoHyphen + boundary + endString;
-            header +="Content-Disposition: form-data;name=\"img\";" + "filename=\"" + "zjm.jpg" + "\"" + endString + endString;
+            header +="Content-Disposition: form-data;name=\"img\";" + "filename=\"" + key+".jpg" + "\"" + endString + endString;
             outputStream.write(header.getBytes());
             //取得文件的FileInputStream
             outputStream.write(imageBytes, 0, imageBytes.length);
@@ -209,7 +209,6 @@ public class LoginUser extends Application {
             String params=twoHyphen + boundary + endString+"Content-Disposition: form-data; name=\"uid\"" +endString+endString+ key + endString+twoHyphen + boundary;
             outputStream.write(params.getBytes());
             outputStream.flush();
-
             int cah = con.getResponseCode();
             if (cah == 200) {
                 InputStream isInputStream = con.getInputStream();
