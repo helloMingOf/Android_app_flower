@@ -6,6 +6,7 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
@@ -56,7 +57,7 @@ public class home extends Fragment {
         return view;
     }
     private void getData()throws IOException {
-        String urlstr = "http://172.17.143.35:8008/articles/";;
+        String urlstr = "http://172.17.143.35:8008/flower_rfid/";;
         URL url = new URL(urlstr);
         HttpURLConnection http = (HttpURLConnection) url.openConnection();
         http.setRequestMethod("GET");
@@ -82,34 +83,34 @@ public class home extends Fragment {
 
 
         public  class ViewHolder extends RecyclerView.ViewHolder {
-            public RoundImageView picture;
-            public TextView author;
+            public ImageView picture;
+            public TextView name;
+            public TextView rfid;
             public TextView time;
-            public TextView text;
 
             public ViewHolder(View convertView) {
                 super(convertView);
-                picture =(RoundImageView)convertView.findViewById(R.id.header) ;
-                author = (TextView)convertView.findViewById(R.id.author);
-                time = (TextView)convertView.findViewById(R.id.time);
-                text = (TextView)convertView.findViewById(R.id.text);
+                picture=convertView.findViewById(R.id.flowerpicture);
+                name = (TextView)convertView.findViewById(R.id.flowername);
+                rfid = (TextView)convertView.findViewById(R.id.flowerid);
+                time = (TextView)convertView.findViewById(R.id.flowertime);
 
             }
         }
         @NonNull
         @Override
         public MyRecycleViewAdapter.ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
-            View v= LayoutInflater.from(getActivity()).inflate(R.layout.item_article_layout,parent, false);
+            View v= LayoutInflater.from(getActivity()).inflate(R.layout.item,parent, false);
             return new ViewHolder(v);
         }
 
         @Override
         public void onBindViewHolder(@NonNull MyRecycleViewAdapter.ViewHolder holder, final int position) {
-            final String url = "http://172.17.143.35:8008/media/"+list.get(position).get("picture");
-            Glide.with(getContext()).load(url).into(holder.picture);
-            holder.author.setText((String)mData.get(position).get("author"));
+            //picture
+            holder.picture.setImageResource(R.drawable.i1);
+            holder.name.setText((String)mData.get(position).get("flower_name"));
+            holder.rfid.setText((String)mData.get(position).get("rfid_id"));
             holder.time.setText((String)mData.get(position).get("time"));
-            holder.text.setText((String)mData.get(position).get("text"));
         }
 
         @Override

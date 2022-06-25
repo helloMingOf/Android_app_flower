@@ -224,6 +224,10 @@
         "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\mipmap-xhdpi\\setting_location.png"
     },
     {
+        "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_i1.jpg.flat",
+        "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\i1.jpg"
+    },
+    {
         "merged": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\build\\intermediates\\res\\merged\\debug\\drawable_outline_person_black_18.png.flat",
         "source": "D:\\ftp\\kj6\\flower\\Android_app_flower\\app\\src\\main\\res\\drawable\\outline_person_black_18.png"
     },
